@@ -78,19 +78,25 @@ const CONFIG = {
       companyLink: 'https://',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'AWS Cloud Club Nepal',
+      position: 'AWS Fellowship: Cohort 1',
+      from: 'Sep 2024',
+      to: 'Oct 2024',
+      companyLink: '',
     },
+    {
+      company: 'Hack - अ - Thon: Nepal\'s First-Ever School-Level Hackathon.',
+      position: 'Mentor',
+      from: 'Jan 2025',
+      to: 'Feb 2025'
+    }
   ],
   certifications: [
     {
       name: 'CS50P',
       body: 'CS50P offered by Harvard University via edX',
       year: 'July 2025',
-      link: 'https://example.com',
+      link: 'https://',
     },
     {
       name: 'Associate Data Scientist Certification',
