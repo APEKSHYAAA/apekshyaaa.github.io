@@ -99,12 +99,6 @@ const CONFIG = {
       link: 'https://',
     },
     {
-      name: 'Associate Data Scientist Certification',
-      body: 'DataCamp',
-      year: 'July 2025',
-      link: 'https://'
-    },
-    {
       name: 'Python with Data Science',
       body: 'Kantipur Engineering College',
       year: '2023',
